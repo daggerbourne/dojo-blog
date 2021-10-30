@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "Who do we use it \n It is long established that a reader will be distracted from the red turtle shells",
+            "author": "mario",
+            "id": 1
+        },
+        {
+            "title": "Woo Party!",
+            "body": "Today we will be having eggs for breakfast!\nIt will be an awesome time for all these eggs and screw boser",
+            "author": "yoshi",
+            "id": 2
+        }
+    ]
+}
